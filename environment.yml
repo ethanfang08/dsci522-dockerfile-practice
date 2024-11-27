@@ -2,7 +2,6 @@ name: my_env
 channels:
   - conda-forge
 dependencies:
-  - matplotlib=3.4.3
-  - numpy=1.21.0
-  - python=3.9
-prefix: /Users/fangziming/miniforge3/envs/my_env
+  - pandas=2.2.2
+  - pandera=0.20.4
+  - python=3.11
